@@ -1,0 +1,6 @@
+node_modules/
+creds.js
+package-lock.json
+data/
+temp/
+.vscode
